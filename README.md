@@ -5,8 +5,8 @@
 
 1. On exporting the missing grantors sheet, make the following changes to column names
    
-   Landlord/Wayleave Contact: Full Name > GRANTOR_NAME
-   City: City Name > CITY
+   - Landlord/Wayleave Contact: Full Name > GRANTOR_NAME
+   - City: City Name > CITY
    
 2. Changes can be made to any column name you wish to copy onto the template. Make sure the column you wish to copy onto the template has the same name as in the template.
 3. Next, find the missing grantor names and wayleave information as required
