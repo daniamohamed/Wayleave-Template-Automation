@@ -4,10 +4,8 @@
 ## Preparing Blank Grantors Workbook for Automation
 
 1. On exporting the missing grantors, make the following changes to column names
-   
    - Landlord/Wayleave Contact: Full Name > GRANTOR_NAME
-   - City: City Name > CITY
-   
+   - City: City Name > CITY  
 2. Changes can be made to any column name you wish to copy onto the template. Make sure the column you wish to copy onto the template has the same name as in the template.
 3. Next, find the missing grantor names and wayleave information as required
 4. You can choose to create a Pivot Table for the cities before or after the above step
@@ -31,4 +29,11 @@
    - Copy file path as instructed above and add a \ at the end
    - If you wish to change the suffix added to these new files, edit " Blanks.xlsx" as required
 7. Save the file and run it
+
+## Importing new contacts on Salesforce
+1. Add Data to contact-list.csv as required
+2. Go to Setup > Search Data Import Wizard on the Quick Find bar
+3. Launch Wizard, Select 'Add new records' and drag csv file to upload 
+4. If any field is marked as Unmapped, Map it to its respective field
+5. Click Next and run the tool.
    
