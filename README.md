@@ -3,7 +3,7 @@
 
 ## Preparing Blank Grantors Workbook for Automation
 
-1. On exporting the missing grantors sheet, make the following changes to column names
+1. On exporting the missing grantors, make the following changes to column names
    
    - Landlord/Wayleave Contact: Full Name > GRANTOR_NAME
    - City: City Name > CITY
