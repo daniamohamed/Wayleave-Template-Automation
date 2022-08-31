@@ -31,7 +31,7 @@
 7. Save the file and run it
 
 ## Importing new contacts on Salesforce
-1. Add Data to contact-list.csv as required
+1. Add Data to contact-list.csv > Add grantor names to 'Last Name' column and fill the rest as required
 2. Go to Setup > Search Data Import Wizard on the Quick Find bar
 3. Launch Wizard, Select 'Add new records' and drag csv file to upload 
 4. If any field is marked as Unmapped, Map it to its respective field
